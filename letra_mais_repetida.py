@@ -11,7 +11,7 @@ contador = 0
 
 print('\n')
 
-print(f'Sua frase tem {largura_frase_digitada} caracteres... \n')
+print(f'Sua frase tem {largura_frase_digitada} caracteres...!!! \n')
 
 while contador <= (largura_frase_digitada - 1):
 
