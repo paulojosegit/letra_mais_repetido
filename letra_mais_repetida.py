@@ -3,7 +3,7 @@ print('\n')
 
 print('****** QUAL LETRA APARECE MAIS NA FRASE QUE VOCÊ ESCRECEU? ****** \n')
 
-menu = input('Escolha uma opção no menu: 1. Letra mais retida | 2. Ver todas a repetição de todas as letras')
+menu = input('Escolha uma opção no menu -  1. Letra mais retida | 2. Ver todas a repetição de todas as letras: ')
 
 frase = input('Digite uma frase >>: ')
 
