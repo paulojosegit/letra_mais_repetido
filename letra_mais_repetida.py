@@ -1,13 +1,13 @@
 
 print('\n')
 
-print('****** QUAL LETRA APARECE MAIS NA FRASE QUE VOCÊ ESCRECEU? ****** \n')
+print('****** QUAL LETRA APARECE MAIS NA FRASE QUE VOCÊ ESCRECEU ****** \n')
 
 menu = input('Escolha uma opção no menu -  1. Letra mais retida | 2. Ver a repetição de todas as letras da frase: ')
 
 if menu == '1':
 
-    frase = input('Digite uma frase >>: ')
+    frase = input('Digite uma frase: ')
 
     largura_frase_digitada = len(frase)
     contador = 0
