@@ -11,7 +11,7 @@ if menu == '1':
 
     largura_frase_digitada = len(frase)
     contador = 0
-    print(contador)
+
 
     print('\n')
 
